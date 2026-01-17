@@ -1,24 +1,348 @@
-# 💫 About Me:
-⚡ I am a Tech enthusiast with 1 year of corporate and 2+ years of Teaching experience<br>🔭 I’m currently working at V2V EdTech LLP as an Educator<br>👯 I’m looking to collaborate on multiple projects regarding various domains<br>🌱 I’m currently learning Artificial Intelligence and Blockchain<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?
+type=waving
+&color=gradient
+&customColorList=24,23,22,21
+&height=300
+&section=header
+&text=Darshan%20Khapekar
+&fontSize=90
+&fontColor=ffffff
+&animation=fadeIn
+&fontAlignY=40
+&desc=Full%20Stack%20Developer%20%7C%20Educator%20%7C%20500%2B%20Mentored
+&descSize=25
+&descAlignY=60
+&rotate=0"/>
+</div>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/982254905039400980) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan.1137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshankhapekar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@darshankhapekar) 
+```diff
+7x Hackathon Champion
+SIH 2024 & 2025 National Winner  
+500+ Students Mentored
+CGPA: 9.74 ⭐
+Building. Learning. Creating. 🚀
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darshan1137&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darshan1137&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1137&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darshan1137&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=darshan1137&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darshan1137&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo2MHRnMTBrOHphNXNsdTUzam1hcGo2M3ozeHlnMDlqanhveGk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="32"/> About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 The Coder
+```python
+class Darshan:
+    def __init__(self):
+        self.role = "Full Stack & Mobile Dev"
+        self.location = "Mumbai 🇮🇳"
+        self.passion = ["Innovation", "Impact", "Excellence"]
+        
+    def solve(self, problem):
+        return f"Elegant solution with {self.tech_stack()}"
+    
+    def mentee_count(self):
+        return "500+ students guided 👥"
+    
+    @property
+    def coding_spirit(self):
+        return "Ideas → Code → Reality 💡"
+```
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Stats
+```
+▰▰▰▰▰▰▰▰▰░ Hackathons      90%
+▰▰▰▰▰▰▰▰▰░ Full Stack      90%
+▰▰▰▰▰▰▰▰░░ AI/ML           80%
+▰▰▰▰▰▰▰▰░░ Cloud Native    75%
+▰▰▰▰▰▰▰░░░ DevOps          70%
+▰▰▰▰▰▰░░░░ System Design   60%
+
+🎯 Always leveling up 📈
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements at a Glance
+
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/7x-Hackathon%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" width="120"/><br><b>🏆 7x Hackathon<br/>Winner</b></td>
+<td align="center"><img src="https://img.shields.io/badge/SIH-2024%20%26%202025%20Champion-FF6B6B?style=for-the-badge&logo=star&logoColor=white" width="120"/><br><b>⭐ SIH 2024 & 2025<br/>Champion</b></td>
+<td align="center"><img src="https://img.shields.io/badge/500+-Students%20Mentored-4ECDC4?style=for-the-badge&logo=users&logoColor=white" width="120"/><br><b>👥 500+ Students<br/>Mentored</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Coding-Gurus%20Founder-9B59B6?style=for-the-badge&logo=rocket&logoColor=white" width="120"/><br><b>🚀 Coding Gurus<br/>Founder</b></td>
+<td align="center"><img src="https://img.shields.io/badge/9.74-CGPA%20Excellence-00D4FF?style=for-the-badge&logo=check&logoColor=white" width="120"/><br><b>✨ 9.74 CGPA<br/>Excellence</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Alchemy ✨
+![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282C34)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=282C34)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282C34)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282C34)
+
+### Backend Magic ⚙️
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282C34)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=282C34)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282C34)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=282C34)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=282C34)
+
+### Mobile Mastery 📱
+![React Native](https://img.shields.io/badge/React_Native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282C34)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=282C34)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=282C34)
+
+### Database Wizardry 🗄️
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282C34)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282C34)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282C34)
+![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=282C34)
+
+### Cloud & DevOps ☁️
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=282C34)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=282C34)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282C34)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=282C34)
+
+### AI/ML Arsenal 🤖
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=282C34)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=282C34)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=282C34)
+![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282C34)
+
+</div>
+
+---
+
+## 📊 Developer Metrics & GitHub Stats
+
+<div align="center">
+
+### 🔥 Core Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan1137&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
+
+### 🚀 Contribution Velocity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshan1137&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&stroke=30363d&dates=c9d1d9)
+
+### 📈 Activity Timeline
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan1137&custom_title=Developer%20Activity%20Heat%20Map&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true&grid=false)
+
+### 💻 Language Mastery & Performance
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1137&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshan1137&theme=github_dark&utcOffset=5.5" />
+
+### 🏆 GitHub Legends
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darshan1137&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=6&rank=S,AAA,AA,A,B)
+
+</div>
+
+---
+
+## 🎯 Hackathon Evolution
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                   HACKATHON JOURNEY                            ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  2023  ████░░░░░░░░░░░░░░░░░░░░  3 Participations              ║
+║        ████░░░░░░░░░░░░░░░░░░░░  1 Victory ⭐                 ║
+║                                                                ║
+║  2024  ███████░░░░░░░░░░░░░░░░░  6 Participations              ║
+║        ███████░░░░░░░░░░░░░░░░░  2 Victories 🏆               ║
+║                                                                ║
+║  2025  ███████████░░░░░░░░░░░░░  5+ Participations             ║
+║        ███████████░░░░░░░░░░░░░  4 Victories 🚀              ║
+║                                                                ║
+║  Total: 7x Winner | 46% Win Rate | Still Rising 📈            ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 💼 Professional Timeline
+
+<div align="center">
+
+| 📅 Timeline | 👨‍💼 Role | 🏢 Organization | ✨ Highlights |
+|:---:|:---:|:---:|:---|
+| **2024-Now** | 👨‍🏫 Educator | Excellent Tutorials NX | Teaching IT curriculum for Commerce |
+| **2023-2025** | 📚 Lead Educator | V2V EdTech LLP | Built Mobile Dev internship program |
+| **2023-Now** | 🚀 Founder | Coding Gurus | Lead Successful Projects |
+| **2023-2024** | 🎯 Coordinator | IEEE VESIT | Technical leadership & projects |
+
+</div>
+
+---
+
+## 🌟 Project Showcase
+
+<div align="center">
+
+### SIH 2024 & 2025 Champion Projects
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🥇 National Level Solutions                                │
+│  Tech: MERN + Firebase + AI + Cloud                         │
+│  Impact: Solved government-level problem statements         │
+│  Users: 1000+ | Scale: Production Ready                     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Coding Gurus - Community Platform
+```
+┌─────────────────────────────────────────────────────────────┐
+│  👥 Educational Tech Platform                               │
+│  Tech: Next.js + Node.js + MongoDB                          │
+│  Impact: 500+ students across India                         │
+│  Growth: 100% month-over-month                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📚 Learning Roadmap 2025
+
+<div align="center">
+
+| 🤖 GenAI Evolution | ☁️ Cloud Mastery | 🏗️ System Design | 🌍 Open Source |
+|:---:|:---:|:---:|:---:|
+| `[████████░░] 80%` | `[██████░░░░] 60%` | `[███████░░░] 70%` | `[████░░░░░░] 40%` |
+| LLM Fine-tuning | Kubernetes | Scalability | Contributing Code |
+| RAG Systems | Microservices | Load Balancing | Documentation |
+| AI Agents | Serverless Arch | Caching Strats | Community Impact |
+| Prompt Ops | CI/CD Pipelines | SOLID Design | Collaboration |
+
+</div>
+
+---
+
+## 🎮 Developer Personality
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║           "First solve the problem, then write code"          ║
+║                                                               ║
+║  💡 Problem Solver  |  🚀 Builder  |  🎯 Impact-Driven       ║
+║  👥 Mentor  |  🔥 Competitive  |  ✨ Creative                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+### Code Mantra
+```javascript
+while (challenges.exist()) {
+  think_deeply();
+  code_elegantly();
+  ship_boldly();
+  learn_constantly();
+  impact_lives();
+}
+```
+
+</div>
+
+---
+
+## 🔗 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshankhapekar)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan1137)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/darshan_1137)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@darshankhapekar)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/982254905039400980)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshankhapekar8520@gmail.com)
+
+</div>
+
+---
+
+## 🤝 Open For
+
+<div align="center">
+
+```
+🏆 HACKATHONS ────► Love competing & building under pressure
+🌐 FULL-STACK ────► Web & Mobile projects at any scale  
+🤖 AI SOLUTIONS ──► GenAI, ML, and innovative automation
+💡 OPEN SOURCE ───► Contributing to meaningful projects
+👥 MENTORING ─────► Guiding the next generation of developers
+```
+
+</div>
+
+---
+
+## 📈 Growth Velocity
+
+<div align="center">
+
+```
+Current Phase: 🚀 Accelerating
+
+Skills:           ██████████ 100% (Always expanding)
+Contributions:    ████████░░  80% (Consistent output)
+Innovation:       █████████░  90% (Fresh ideas daily)
+Impact:           ██████████ 100% (500+ mentored)
+Community:        ████████░░  80% (Active engagement)
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://cdn.pixabay.com/animation/2023/06/15/04/08/04-08-10-604_512.gif" width="100"/>
+
+### 💫 *Building tomorrow's solutions today*
+
+**Star ⭐ this profile if you find my journey interesting!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,13,16&height=100&section=footer&reversal=false"/>
+</div>
