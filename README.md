@@ -1,29 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=waving
-&color=gradient
-&customColorList=24,23,22,21
-&height=300
-&section=header
-&text=Darshan%20Khapekar
-&fontSize=90
-&fontColor=ffffff
-&animation=fadeIn
-&fontAlignY=40
-&desc=Full%20Stack%20Developer%20%7C%20Educator%20%7C%20500%2B%20Mentored
-&descSize=25
-&descAlignY=60
-&rotate=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21&height=300&section=header&text=Darshan%20Khapekar&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Educator%20%7C%20500%2B%20Mentored&descSize=25&descAlignY=60&rotate=0"/>
 </div>
 
 <div align="center">
 
 ```diff
-7x Hackathon Champion
-SIH 2024 & 2025 National Winner  
-500+ Students Mentored
-CGPA: 9.74 ⭐
-Building. Learning. Creating. 🚀
++ 7x Hackathon Champion
++ SIH 2024 & 2025 National Winner  
++ 500+ Students Mentored
++ CGPA: 9.74 ⭐
++ Building. Learning. Creating. 🚀
 ```
 
 </div>
@@ -78,8 +64,8 @@ class Darshan:
 
 ## 🏆 Achievements at a Glance
 
-
 <div align="center">
+
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/7x-Hackathon%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" width="120"/><br><b>🏆 7x Hackathon<br/>Winner</b></td>
@@ -89,6 +75,7 @@ class Darshan:
 <td align="center"><img src="https://img.shields.io/badge/9.74-CGPA%20Excellence-00D4FF?style=for-the-badge&logo=check&logoColor=white" width="120"/><br><b>✨ 9.74 CGPA<br/>Excellence</b></td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -143,20 +130,40 @@ class Darshan:
 <div align="center">
 
 ### 🔥 Core Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan1137&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=darshan1137&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
 ### 🚀 Contribution Velocity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshan1137&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&stroke=30363d&dates=c9d1d9)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan1137&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&stroke=30363d&dates=c9d1d9" alt="GitHub Streak"/>
 
 ### 📈 Activity Timeline
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan1137&custom_title=Developer%20Activity%20Heat%20Map&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true&grid=false)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan1137&custom_title=Developer%20Activity%20Heat%20Map&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true&grid=false" alt="Contribution Graph"/>
 
 ### 💻 Language Mastery & Performance
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1137&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshan1137&theme=github_dark&utcOffset=5.5" />
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <b>Top Languages</b><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1137&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages"/>
+</td>
+<td align="center">
+  <b>Productive Hours</b><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshan1137&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ### 🏆 GitHub Legends
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darshan1137&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=6&rank=S,AAA,AA,A,B)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=darshan1137&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=6&rank=S,AAA,AA,A,B" width="100%" alt="GitHub Trophies"/>
+
+</div>
 
 </div>
 
@@ -168,19 +175,19 @@ class Darshan:
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║                   HACKATHON JOURNEY                            ║
+║                   HACKATHON JOURNEY                           ║
 ╠════════════════════════════════════════════════════════════════╣
 ║                                                                ║
-║  2023  ████░░░░░░░░░░░░░░░░░░░░  3 Participations              ║
-║        ████░░░░░░░░░░░░░░░░░░░░  1 Victory ⭐                 ║
+║  2023  ████░░░░░░░░░░░░░░░░░░░░  3 Participations          ║
+║        ████░░░░░░░░░░░░░░░░░░░░  1 Victory ⭐              ║
 ║                                                                ║
-║  2024  ███████░░░░░░░░░░░░░░░░░  6 Participations              ║
-║        ███████░░░░░░░░░░░░░░░░░  2 Victories 🏆               ║
+║  2024  ███████░░░░░░░░░░░░░░░░░  6 Participations          ║
+║        ███████░░░░░░░░░░░░░░░░░  3 Victories 🏆             ║
 ║                                                                ║
-║  2025  ███████████░░░░░░░░░░░░░  5+ Participations             ║
-║        ███████████░░░░░░░░░░░░░  4 Victories 🚀              ║
+║  2025  ███████████░░░░░░░░░░░░░  8+ Participations         ║
+║        ███████████░░░░░░░░░░░░░  3+ Victories 🚀            ║
 ║                                                                ║
-║  Total: 7x Winner | 46% Win Rate | Still Rising 📈            ║
+║  Total: 7x Winner | 46% Win Rate | Still Rising 📈           ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -197,7 +204,7 @@ class Darshan:
 |:---:|:---:|:---:|:---|
 | **2024-Now** | 👨‍🏫 Educator | Excellent Tutorials NX | Teaching IT curriculum for Commerce |
 | **2023-2025** | 📚 Lead Educator | V2V EdTech LLP | Built Mobile Dev internship program |
-| **2023-Now** | 🚀 Founder | Coding Gurus | Lead Successful Projects |
+| **2023-Now** | 🚀 Founder | Coding Gurus | Mentored 500+ students across India |
 | **2023-2024** | 🎯 Coordinator | IEEE VESIT | Technical leadership & projects |
 
 </div>
@@ -208,25 +215,11 @@ class Darshan:
 
 <div align="center">
 
-### SIH 2024 & 2025 Champion Projects
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🥇 National Level Solutions                                │
-│  Tech: MERN + Firebase + AI + Cloud                         │
-│  Impact: Solved government-level problem statements         │
-│  Users: 1000+ | Scale: Production Ready                     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Coding Gurus - Community Platform
-```
-┌─────────────────────────────────────────────────────────────┐
-│  👥 Educational Tech Platform                               │
-│  Tech: Next.js + Node.js + MongoDB                          │
-│  Impact: 500+ students across India                         │
-│  Growth: 100% month-over-month                              │
-└─────────────────────────────────────────────────────────────┘
-```
+| 🥇 Project | 💻 Tech Stack | 📊 Impact | 🎯 Status |
+|:---|:---|:---|:---|
+| **SIH 2024 & 2025 Champion** | MERN + Firebase + AI + Cloud | Government-level solutions for 1000+ users | ✅ Production Ready |
+| **Coding Gurus Platform** | Next.js + Node.js + MongoDB | Educational tech platform serving 500+ students | ✅ Live & Scaling |
+| **Hackathon Winners** | Full Stack + DevOps | Multiple award-winning innovative solutions | ✅ Deployed |
 
 </div>
 
@@ -248,11 +241,9 @@ class Darshan:
 
 ---
 
-## 🎮 Developer Personality
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Developer"/>
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -301,13 +292,13 @@ while (challenges.exist()) {
 
 <div align="center">
 
-```
-🏆 HACKATHONS ────► Love competing & building under pressure
-🌐 FULL-STACK ────► Web & Mobile projects at any scale  
-🤖 AI SOLUTIONS ──► GenAI, ML, and innovative automation
-💡 OPEN SOURCE ───► Contributing to meaningful projects
-👥 MENTORING ─────► Guiding the next generation of developers
-```
+| 🎯 Opportunity | 📝 Details |
+|:---|:---|
+| 🏆 **Hackathons** | Love competing & building under pressure |
+| 🌐 **Full-Stack Projects** | Web & Mobile projects at any scale |
+| 🤖 **AI Solutions** | GenAI, ML, and innovative automation |
+| 💡 **Open Source** | Contributing to meaningful projects |
+| 👥 **Mentoring** | Guiding the next generation of developers |
 
 </div>
 
@@ -317,15 +308,13 @@ while (challenges.exist()) {
 
 <div align="center">
 
-```
-Current Phase: 🚀 Accelerating
-
-Skills:           ██████████ 100% (Always expanding)
-Contributions:    ████████░░  80% (Consistent output)
-Innovation:       █████████░  90% (Fresh ideas daily)
-Impact:           ██████████ 100% (500+ mentored)
-Community:        ████████░░  80% (Active engagement)
-```
+| 📊 Metric | 📈 Progress | 💬 Notes |
+|:---|:---:|:---|
+| **Skills** | ██████████ 100% | Always expanding toolkit |
+| **Contributions** | ████████░░ 80% | Consistent output daily |
+| **Innovation** | █████████░ 90% | Fresh ideas every sprint |
+| **Impact** | ██████████ 100% | 500+ students mentored |
+| **Community** | ████████░░ 80% | Active engagement ongoing |
 
 </div>
 
@@ -333,7 +322,7 @@ Community:        ████████░░  80% (Active engagement)
 
 <div align="center">
 
-<img src="https://cdn.pixabay.com/animation/2023/06/15/04/08/04-08-10-604_512.gif" width="100"/>
+<img src="https://cdn.pixabay.com/animation/2023/06/15/04/08/04-08-10-604_512.gif" width="100" alt="Building"/>
 
 ### 💫 *Building tomorrow's solutions today*
 
