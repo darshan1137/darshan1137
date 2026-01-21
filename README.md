@@ -5,11 +5,11 @@
 <div align="center">
 
 ```diff
-+ 7x Hackathon Champion
-+ SIH 2024 & 2025 National Winner  
-+ 500+ Students Mentored
-+ CGPA: 9.74 ⭐
-+ Building. Learning. Creating. 🚀
+7x Hackathon Champion
+SIH 2024 & 2025 National Winner  
+500+ Students Mentored
+CGPA: 9.74 ⭐
+Building. Learning. Creating. 🚀
 ```
 
 </div>
@@ -169,47 +169,6 @@ class Darshan:
 
 ---
 
-## 🎯 Hackathon Evolution
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                   HACKATHON JOURNEY                           ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  2023  ████░░░░░░░░░░░░░░░░░░░░  3 Participations          ║
-║        ████░░░░░░░░░░░░░░░░░░░░  1 Victory ⭐              ║
-║                                                                ║
-║  2024  ███████░░░░░░░░░░░░░░░░░  6 Participations          ║
-║        ███████░░░░░░░░░░░░░░░░░  3 Victories 🏆             ║
-║                                                                ║
-║  2025  ███████████░░░░░░░░░░░░░  8+ Participations         ║
-║        ███████████░░░░░░░░░░░░░  3+ Victories 🚀            ║
-║                                                                ║
-║  Total: 7x Winner | 46% Win Rate | Still Rising 📈           ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 💼 Professional Timeline
-
-<div align="center">
-
-| 📅 Timeline | 👨‍💼 Role | 🏢 Organization | ✨ Highlights |
-|:---:|:---:|:---:|:---|
-| **2024-Now** | 👨‍🏫 Educator | Excellent Tutorials NX | Teaching IT curriculum for Commerce |
-| **2023-2025** | 📚 Lead Educator | V2V EdTech LLP | Built Mobile Dev internship program |
-| **2023-Now** | 🚀 Founder | Coding Gurus | Mentored 500+ students across India |
-| **2023-2024** | 🎯 Coordinator | IEEE VESIT | Technical leadership & projects |
-
-</div>
-
----
 
 ## 🌟 Project Showcase
 
@@ -220,22 +179,6 @@ class Darshan:
 | **SIH 2024 & 2025 Champion** | MERN + Firebase + AI + Cloud | Government-level solutions for 1000+ users | ✅ Production Ready |
 | **Coding Gurus Platform** | Next.js + Node.js + MongoDB | Educational tech platform serving 500+ students | ✅ Live & Scaling |
 | **Hackathon Winners** | Full Stack + DevOps | Multiple award-winning innovative solutions | ✅ Deployed |
-
-</div>
-
----
-
-## 📚 Learning Roadmap 2025
-
-<div align="center">
-
-| 🤖 GenAI Evolution | ☁️ Cloud Mastery | 🏗️ System Design | 🌍 Open Source |
-|:---:|:---:|:---:|:---:|
-| `[████████░░] 80%` | `[██████░░░░] 60%` | `[███████░░░] 70%` | `[████░░░░░░] 40%` |
-| LLM Fine-tuning | Kubernetes | Scalability | Contributing Code |
-| RAG Systems | Microservices | Load Balancing | Documentation |
-| AI Agents | Serverless Arch | Caching Strats | Community Impact |
-| Prompt Ops | CI/CD Pipelines | SOLID Design | Collaboration |
 
 </div>
 
@@ -254,19 +197,6 @@ class Darshan:
 ║  👥 Mentor  |  🔥 Competitive  |  ✨ Creative                ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-### Code Mantra
-```javascript
-while (challenges.exist()) {
-  think_deeply();
-  code_elegantly();
-  ship_boldly();
-  learn_constantly();
-  impact_lives();
-}
 ```
 
 </div>
@@ -304,21 +234,6 @@ while (challenges.exist()) {
 
 ---
 
-## 📈 Growth Velocity
-
-<div align="center">
-
-| 📊 Metric | 📈 Progress | 💬 Notes |
-|:---|:---:|:---|
-| **Skills** | ██████████ 100% | Always expanding toolkit |
-| **Contributions** | ████████░░ 80% | Consistent output daily |
-| **Innovation** | █████████░ 90% | Fresh ideas every sprint |
-| **Impact** | ██████████ 100% | 500+ students mentored |
-| **Community** | ████████░░ 80% | Active engagement ongoing |
-
-</div>
-
----
 
 <div align="center">
 
