@@ -68,7 +68,7 @@ class Darshan:
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/7x-Hackathon%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" width="120"/><br><b>🏆 7x Hackathon<br/>Winner</b></td>
+<td align="center"><img src="https://img.shields.io/badge/10x-Hackathon%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" width="120"/><br><b>🏆 7x Hackathon<br/>Winner</b></td>
 <td align="center"><img src="https://img.shields.io/badge/SIH-2024%20%26%202025%20Champion-FF6B6B?style=for-the-badge&logo=star&logoColor=white" width="120"/><br><b>⭐ SIH 2024 & 2025<br/>Champion</b></td>
 <td align="center"><img src="https://img.shields.io/badge/500+-Students%20Mentored-4ECDC4?style=for-the-badge&logo=users&logoColor=white" width="120"/><br><b>👥 500+ Students<br/>Mentored</b></td>
 <td align="center"><img src="https://img.shields.io/badge/Coding-Gurus%20Founder-9B59B6?style=for-the-badge&logo=rocket&logoColor=white" width="120"/><br><b>🚀 Coding Gurus<br/>Founder</b></td>
